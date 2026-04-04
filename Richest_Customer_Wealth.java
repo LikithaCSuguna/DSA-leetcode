@@ -4,16 +4,16 @@
      represents the money in their bank accounts, return the maximum wealth
      among all customers.
      
-      Approach: Iterate through each row (customer) of the 2D array,
+      Approach:
+      Iterate through each row (customer) of the 2D array,
       calculate the sum of all bank accounts for that customer, and keep track 
       of the maximum wealth found while traversing the matrix.
 
-      Time complexity: O(m × n) — We traverse all elements of the matrix.
-      where m is the number of customers and n is the number of bank accounts.
-
-      Space complexity: O(1) — No extra space is used apart from a few variables.
+      Time complexity: O(m × n) 
+      Space complexity: O(1)
       
     */
+
 
 class Solution {
 
