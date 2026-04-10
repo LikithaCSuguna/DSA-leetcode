@@ -8,7 +8,7 @@ Approach:
 Start with "1" and iteratively build each term by counting consecutive digits in the previous string.
 Append count + digit for each group to form the next term until reaching n.
 
-Time Complexity: O(n×m)
+Time Complexity: O(n×m) 
 Space Complexity: O(m)
 
 */
