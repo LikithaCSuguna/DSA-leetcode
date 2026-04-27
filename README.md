@@ -1,6 +1,6 @@
 # 📘 DSA LeetCode Solutions
 
-This repository contains my solutions to  DSA problems from LeetCode.
+This repository contains my solutions to 50 DSA problems from LeetCode.
 
 # Details
 - Language: Java  
